@@ -1,0 +1,18 @@
+
+.titulo__principal {
+    font-family: var(--font-noto-sans);
+    font-size: var(--txt-large);
+    line-height: 36px;
+}
+
+.txt__small {
+    font-family: var(--font-noto-sans);
+    font-size: var(--txt-small);
+    font-weight: 300;
+    line-height: 24px;
+}
+.txt__medium {
+    font-family: var(--font-noto-sans);
+    font-size: var(--txt-medium);
+    font-weight: 700;
+}

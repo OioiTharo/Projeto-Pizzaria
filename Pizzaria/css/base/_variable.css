@@ -1,0 +1,10 @@
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap');
+:root {
+    --font-noto-sans: 'Bricolage Grotesque', sans-serif;
+    --txt-large: 32px;
+    --txt-medium: 24px;
+    --txt-small: 16px;
+    --color-black: black;
+    --color-white: white;
+
+}

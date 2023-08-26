@@ -1,0 +1,15 @@
+.cards {
+    display: flex;
+    gap: 80px;
+    margin-left: 4%;
+}
+
+.image__card {
+    height: 120px;
+	width: 120px;
+}
+.imagem__fundo {
+    position: absolute;
+    top: 50px;
+    right: -160px;
+}
