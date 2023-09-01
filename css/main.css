@@ -9,3 +9,6 @@
 @import "layout/section_local.css";
 @import "layout/footer.css";
 @import "layout/sobre.css";
+  body{
+    background-color: black;
+  }
