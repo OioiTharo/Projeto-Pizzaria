@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+    align-items: center;
+}
+
+ul, li {
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    margin-left: 16px;
+	color: #FF3131;
+}
+.image__logo {
+    width: 150px;
+	padding-top: 40px;
+}

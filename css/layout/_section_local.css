@@ -1,0 +1,27 @@
+.local{
+	align-items: center;
+}
+.mapa {
+    display: block;
+    margin-left: 4%;
+	height: 200px;
+	width: 400px;
+	padding-top: 50px;
+	padding-bottom:50px;
+}
+.mensagem__local{
+	display: flex;
+    gap: 10px;
+    margin-left: 500px;
+	margin-top: -250px;
+	flex-direction: column;
+    align-items: left;
+    justify-content: center;
+}
+.image__local{
+	display: block;
+    margin-left: 4%;
+	height: 250px;
+	margin-top: -150px;
+	margin-left: 80%;
+}
